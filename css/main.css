@@ -1,0 +1,47 @@
+body {
+    display: flex; 
+    flex-direction:column; 
+    justify-content: center; 
+    align-items: center;
+    padding-top: 200px;
+    font-style: helvetica;
+
+}
+
+    
+#text_id{
+    text-align: center;
+
+}
+
+#add-btn {
+    background-color: grey;
+    height: 60px;
+    width: 60px; 
+    border-radius: 10px; 
+    color: white;
+    
+}
+
+#add-btn:hover {
+    background-color: white;
+    color: grey;
+}
+
+#subtract-btn {
+    background-color: grey; 
+    height: 60px;
+    width: 60px; 
+    border-radius: 10px;
+    color: white; 
+
+}
+
+#subtract-btn:hover{
+    background-color: white;
+    color: grey;
+}
+
+h1 {
+    font-size: 
+}
